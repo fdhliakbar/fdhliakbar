@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h2 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2 align="center">Hi i'm Fadhli Akbar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 <!--
 <p align="center">
@@ -8,7 +8,7 @@
 -->
 
 <p align="center">
-  <img src = "https://github.com/fdhliakbar/fdhliakbar/assets/104522615/8595bc01-0be5-4608-84bb-2f7ee1ac98e2" alt = "steins gate gif">
+  <img src = "https://github.com/fdhliakbar/fdhliakbar/assets/104522615/b04ca924-b945-4d8d-a373-18cdcf876a45" alt = "steins gate gif">
 </p>
 
 <p align="center">
