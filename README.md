@@ -19,4 +19,4 @@
   <strong><a href="https://stackoverflow.com/users/19853138/fdhliakbar">Stackoverflow</a></strong>
 </p>
 
-<p align="center"><img src = "https://github.com/fdhliakbar/fdhliakbar/assets/104522615/cbe13a73-7022-467d-bd12-c99ff8ea9325" height = "50px"> I am currently studying Computer Science.</p>
+<p align="center">I am currently studying Computer Science.</p>
