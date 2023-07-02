@@ -17,8 +17,9 @@
 ![jira](https://img.shields.io/static/v1?logo=jira&label=&message=jira&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
+
+<!-- ![github](https://img.shields.io/static/v1?label=&message=d&color=111&style=flat-square)
+![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=fff&style=flat-square) -->
 
 I always try to improve my skills, especially in programming.
 
