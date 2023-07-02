@@ -2,19 +2,19 @@
 
 ---
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=javascript&color=36465D&logoColor=AAA&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
-![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square&link=)
-![php](https://img.shields.io/static/v1?logo=php&label=&message=php&color=36465D&logoColor=AAA&style=flat-square&link=)
+![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=36465D&logoColor=AAA&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
+![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=CPP&color=36465D&logoColor=AAA&style=flat-square&link=)
+![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=laravel&color=36465D&logoColor=AAA&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
-![postman](https://img.shields.io/static/v1?logo=postman&label=&message=postman&color=36465D&logoColor=AAA&style=flat-square)
-![netlify](https://img.shields.io/static/v1?logo=netlify&label=&message=netlify&color=36465D&logoColor=AAA&style=flat-square)
-![jira](https://img.shields.io/static/v1?logo=jira&label=&message=jira&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
+![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=36465D&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
+![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=36465D&logoColor=AAA&style=flat-square)
+![netlify](https://img.shields.io/static/v1?logo=netlify&label=&message=Netlify&color=36465D&logoColor=AAA&style=flat-square)
+![jira](https://img.shields.io/static/v1?logo=jira&label=&message=Jira&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
 <!-- ![github](https://img.shields.io/static/v1?label=&message=d&color=111&style=flat-square)
