@@ -38,4 +38,4 @@ I always try to improve my skills, especially in programming.
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/behance/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; My Website : [https://moer.tel](https://moer.tel) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
