@@ -1,6 +1,12 @@
 <!-- Heading -->
 <h2 align="center">Hi i'm Fadhli Akbar <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
+Halo! My name is Muhammad Fadhli Akbar. I am currently a computer science student.
+
+I have a background in the computer field since I was in high school. After graduating, I continued studying at Ahmad Dahlan University as a computer science student.
+
+I always try to improve my skills, especially in programming. I have taken several fundamental courses and read many books on programming.
+
 <!--
 <p align="center">
   <a href="https://github.com/fdhliakbar"><img src="https://github-readme-stats.vercel.app/api?username=fdhliakbar&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
