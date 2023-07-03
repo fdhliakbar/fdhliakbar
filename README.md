@@ -41,4 +41,4 @@ I always try to improve my skills, especially in programming.
   <img align="left" alt="Fadhli Akbar Quora" width="20px" src="https://simpleicons.now.sh/quora/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :) | &nbsp;&nbsp;&nbsp; <p align="right"><img src="./Assets/asuka.gif" height="40px"><p>
+| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :) | &nbsp;&nbsp;&nbsp; <div align="right"><img src="./Assets/asuka.gif" height="40px"></div>
