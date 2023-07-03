@@ -24,9 +24,8 @@ I always try to improve my skills, especially in programming.
 
 ---
 
-<!-- twitter, ig, quora, stack, reddit -->
 <a href="">
-  <img align="left" alt="Fadhli Akbar Twitter" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
+  <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 <a href="https://moertel.codeproject.com/">
   <img align="left" alt="Fadhli Akbar codeproject" width="20px" src="https://simpleicons.now.sh/codeproject/495f7e" />
@@ -41,4 +40,11 @@ I always try to improve my skills, especially in programming.
   <img align="left" alt="Fadhli Akbar Quora" width="20px" src="https://simpleicons.now.sh/quora/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :) <div align="right"><img src="./Assets/asuka.gif" height="108px"></div>
+| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :)
+
+<!--
+<div align="left" style="display: inline-block;"><img src="./Assets/banner.jpeg" width="50%" alt="Asuka langley banner"></div>
+
+<div align="right"><img src="./Assets/asuka.gif" height="108px"></div> -->
+
+<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"> - <img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:62px">
