@@ -42,9 +42,8 @@ I always try to improve my skills, especially in programming.
 
 | &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :)
 
-<!--
-<div align="left" style="display: inline-block;"><img src="./Assets/banner.jpeg" width="50%" alt="Asuka langley banner"></div>
+<a href="https://en.wikipedia.org/wiki/Asuka_Langley_Soryu" style="display:inline">
+<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%">
+</a>
 
-<div align="right"><img src="./Assets/asuka.gif" height="108px"></div> -->
-
-<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"> <img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:100px">
+<img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:100px">
