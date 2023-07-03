@@ -47,4 +47,4 @@ I always try to improve my skills, especially in programming.
 
 <div align="right"><img src="./Assets/asuka.gif" height="108px"></div> -->
 
-<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"> - <img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:62px">
+<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"> <img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:100px">
