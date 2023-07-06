@@ -9,7 +9,7 @@
 ![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
-![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=36465D&logoColor=AAA&style=flat-square)
+![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=36465D&logoColor=AAA&style=flat-square)
 ![netlify](https://img.shields.io/static/v1?logo=netlify&label=&message=Netlify&color=36465D&logoColor=AAA&style=flat-square)
