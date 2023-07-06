@@ -27,8 +27,8 @@ I always try to improve my skills, especially in programming.
 <a href="">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
-<a href="https://moertel.codeproject.com/">
-  <img align="left" alt="Fadhli Akbar codeproject" width="20px" src="https://simpleicons.now.sh/codeproject/495f7e" />
+<a href="https://twitter.com/Aozorasama1">
+  <img align="left" alt="Fadhli Akbar Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.facebook.com/fdhliakbar/">
   <img align="left" alt="Fadhli Akbar Facebook" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
