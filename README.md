@@ -24,7 +24,7 @@ I always try to improve my skills, especially in programming.
 
 ---
 
-<a href="">
+<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 <a href="https://twitter.com/Aozorasama1">
