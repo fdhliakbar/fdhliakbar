@@ -9,7 +9,7 @@
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
-![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=36465D&logoColor=AAA&style=flat-square)
+![jenkins](https://img.shields.io/static/v1?logo=jenkins&label=&message=jenkins&color=36465D&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=36465D&logoColor=AAA&style=flat-square)
 ![netlify](https://img.shields.io/static/v1?logo=netlify&label=&message=Netlify&color=36465D&logoColor=AAA&style=flat-square)
@@ -24,11 +24,11 @@ I always try to improve my skills, especially in programming.
 
 ---
 
-<a href="">
+<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
-<a href="https://moertel.codeproject.com/">
-  <img align="left" alt="Fadhli Akbar codeproject" width="20px" src="https://simpleicons.now.sh/codeproject/495f7e" />
+<a href="https://twitter.com/Aozorasama1">
+  <img align="left" alt="Fadhli Akbar Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.facebook.com/fdhliakbar/">
   <img align="left" alt="Fadhli Akbar Facebook" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
