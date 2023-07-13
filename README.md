@@ -6,7 +6,7 @@
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
 ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=CPP&color=36465D&logoColor=AAA&style=flat-square&link=)
-![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square&link=)
+![go](https://img.shields.io/static/v1?logo=go&label=&message=Go&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=36465D&logoColor=AAA&style=flat-square)
