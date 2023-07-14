@@ -28,10 +28,10 @@ I always try to improve my skills, especially in programming.
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 <a href="https://twitter.com/Aozorasama1">
-  <img align="left" alt="Fadhli Akbar Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="Fadhli Akbar Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
 </a>
 <a href="https://www.facebook.com/fdhliakbar/">
-  <img align="left" alt="Fadhli Akbar Facebook" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
+  <img align="left" alt="Fadhli Akbar tlx" width="20px" src="https://simpleicons.now.sh/tlx/495f7e" />
 </a>
 <a href="https://www.reddit.com/user/Kyoreader">
   <img align="left" alt="Fadhl Akbar Reddit" width="20px" src="https://simpleicons.now.sh/reddit/495f7e" />
