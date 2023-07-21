@@ -24,7 +24,7 @@ I always try to improve my skills, especially in programming.
 
 ---
 
-<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
+<!-- <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 <a href="https://codepen.io/fdhliakbar">
@@ -40,7 +40,7 @@ I always try to improve my skills, especially in programming.
   <img align="left" alt="Fadhli Akbar Quora" width="20px" src="https://simpleicons.now.sh/quora/495f7e" />
 </a>
 
-&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :)
+&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :) -->
 
 ```ts
 const myself: MySelf = {
