@@ -43,3 +43,13 @@ I always try to improve my skills, especially in programming.
 &nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :)
 
 <img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
+
+```ts
+const myself: MySelf = {
+  name: "Muhamad Fadhli Akbar,
+  nickname: "fdhliakbar",
+  funfact: "Otaku 🐱",
+};
+
+console.log(myself.funfact);
+```
