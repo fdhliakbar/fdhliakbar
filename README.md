@@ -20,7 +20,7 @@
 <!-- ![github](https://img.shields.io/static/v1?label=&message=d&color=111&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=fff&style=flat-square) -->
 
-I always try to improve my skills, especially in programming.
+I always try to improve my skills, especially in programming🧑🏻‍💻.
 
 ---
 
@@ -43,12 +43,17 @@ I always try to improve my skills, especially in programming.
 &nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :) -->
 
 ```ts
+interface MySelf {
+  nickname: string;
+  favoriteAnime: string[];
+  funfact: string;
+}
+
 const myself: MySelf = {
-  name: "Muhamad Fadhli Akbar",
   nickname: "fdhliakbar",
   favoriteAnime: [
     "Steins Gate",
-    "Monogatari Series",
+    "Monogatari",
     "Code Geass",
     "Clannad: After Story",
   ],
