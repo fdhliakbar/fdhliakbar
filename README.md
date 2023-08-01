@@ -52,7 +52,7 @@ const myself: MySelf = {
   favoriteAnime: [
     "Code Geass",
     "Steins Gate",
-    "Monogatari",
+    "Monogatari Series",
     "Clannad: After Story",
   ],
   funfact: "Otaku 🐱",
