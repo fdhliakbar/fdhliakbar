@@ -50,6 +50,7 @@ interface MySelf {
 const myself: MySelf = {
   nickname: "fdhliakbar",
   favoriteAnime: [
+    "One Piece",
     "Code Geass",
     "Steins Gate",
     "Monogatari Series",
