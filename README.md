@@ -43,23 +43,19 @@ I always try to improve my skills, especially in programming🧑🏻‍💻.
 ```ts
 interface MySelf {
   nickname: string;
-  favoriteAnime: string[];
   funfact: string;
+  introduction: () => void;
 }
 
 const myself: MySelf = {
   nickname: "fdhliakbar",
-  favoriteAnime: [
-    "One Piece",
-    "Code Geass",
-    "Steins Gate",
-    "Monogatari Series",
-    "Clannad: After Story",
-  ],
   funfact: "Otaku 🐱",
+  introduction: function () {
+    console.log(`Hi, my name is ${this.nickname}. I'm ${this.funfact}`);
+  },
 };
 
-console.log(myself.funfact);
+myself.introduction();
 ```
 
 <img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
