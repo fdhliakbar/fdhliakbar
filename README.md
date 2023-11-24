@@ -15,7 +15,7 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-<!-- ![github](https://img.shields.io/static/v1?label=&message=d&color=111&style=flat-square)
+<!-- <!-- ![github](https://img.shields.io/static/v1?label=&message=d&color=111&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=fff&style=flat-square) -->
 
 I always try to improve my skills, especially in programming🧑🏻‍💻
@@ -32,7 +32,7 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
   <img align="left" alt="Fadhli Akbar HackerRank" width="20px" src="https://simpleicons.now.sh/hackerrank/495f7e" />
 </a>
 <a href="https://www.reddit.com/user/Kyoreader">
-  <img align="left" alt="Fadhl Akbar Reddit" width="20px" src="https://simpleicons.now.sh/reddit/495f7e" />
+  <img align="left" alt="Fadhl Akbar Reddit" width="20px" src="https://simpleicons.now.sh/reddit/495f7e" /> -->
 </a>
 <a href="https://www.quora.com/profile/Fdhliakbar">
   <img align="left" alt="Fadhli Akbar Quora" width="20px" src="https://simpleicons.now.sh/quora/495f7e" />
