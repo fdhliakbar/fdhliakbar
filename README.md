@@ -22,7 +22,7 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
 
 ---
 
-<!-- <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
+<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
 <a href="https://codepen.io/fdhliakbar">
@@ -32,7 +32,7 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
   <img align="left" alt="Fadhli Akbar HackerRank" width="20px" src="https://simpleicons.now.sh/hackerrank/495f7e" />
 </a>
 <a href="https://www.reddit.com/user/Kyoreader">
-  <img align="left" alt="Fadhl Akbar Reddit" width="20px" src="https://simpleicons.now.sh/reddit/495f7e" /> -->
+  <img align="left" alt="Fadhl Akbar Reddit" width="20px" src="https://simpleicons.now.sh/reddit/495f7e" />
 </a>
 <a href="https://www.quora.com/profile/Fdhliakbar">
   <img align="left" alt="Fadhli Akbar Quora" width="20px" src="https://simpleicons.now.sh/quora/495f7e" />
@@ -40,23 +40,13 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
 
 &nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; My Website : [fdhliakbar](https://fadhliakbar.netlify.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; let's look for bugs :) -->
 
-<!-- ```ts
+```ts
 interface MySelf {
   nickname: string;
   funfact: string;
   introduction: () => void;
 }
 
-const myself: MySelf = {
-  nickname: "fdhliakbar",
-  funfact: "Otaku 🐱",
-  introduction: function () {
-    console.log(`Hi, my name is ${this.nickname}. I'm ${this.funfact}`);
-  },
-};
-
-myself.introduction();
-``` -->
-<!--
 <img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
- -->
+
+```
