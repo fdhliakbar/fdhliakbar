@@ -23,7 +23,7 @@
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square) -->
 
 <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
-  <img align="left" alt="Fadhli Akbar Stackoverflow" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message=Stack Overflow&color=111&logoColor=fff&style=flat-square&width=120" />
+  <img align="left" width="200px" alt="Fadhli Akbar Stackoverflow" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message=Stack Overflow&color=111&logoColor=fff&style=flat-square&" />
 </a>
 <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="40px" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message=Stack Overflow&color=111&logoColor=fff&style=flat-square" />
