@@ -15,12 +15,15 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-![github](https://img.shields.io/static/v1?label=&message=d&color=111&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=111&logoColor=fff&style=flat-square)
+<!-- Link to Sosial Media -->
+
+![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=111&logoColor=fff&style=flat-square)
+![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 
 I always try to improve my skills, especially in programming🧑🏻‍💻
 
 ---
+
 <!--
 <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
