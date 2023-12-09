@@ -24,7 +24,6 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
 
 ---
 
-<!--
 <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" alt="Fadhli Akbar Stackoverflow" width="20px" src="https://simpleicons.now.sh/stackoverflow/495f7e" />
 </a>
@@ -39,6 +38,6 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
 </a>
 <a href="https://www.quora.com/profile/Fdhliakbar">
   <img align="left" alt="Fadhli Akbar Quora" width="20px" src="https://simpleicons.now.sh/quora/495f7e" />
-</a> -->
+</a>
 
 <img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
