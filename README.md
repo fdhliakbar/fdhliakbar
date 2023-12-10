@@ -31,7 +31,11 @@
 <a href="https://www.hackerrank.com/fadhliakbar125?hr_r=1">
   <img align="left" width="44px" alt="Fadhli Akbar HackerRank" src="https://img.shields.io/static/v1?logo=hackerrank&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
+<a href="https://www.hackerrank.com/fadhliakbar125?hr_r=1">
+  <img align="left" width="44px" alt="Fadhli Akbar HackerRank" src="https://img.shields.io/static/v1?logo=replit&label=&message= &color=111&logoColor=fff&style=flat-square&" />
+</a>
 <br>
+
 ---
 
 I always try to improve my skills, especially in programming🧑🏻‍💻
