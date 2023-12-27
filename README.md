@@ -22,7 +22,9 @@
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square) -->
 
-<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
+<!-- Icon Sosial Media -->
+
+<!-- <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" width="44px" alt="Fadhli Akbar Stackoverflow" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
 <a href="https://codepen.io/fdhliakbar">
@@ -37,7 +39,7 @@
 <a href="https://gitlab.com/fdhliakbar">
   <img align="left" width="44px" alt="Fadhli Akbar Gitlab" src="https://img.shields.io/static/v1?logo=gitlab&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
-<br>
+<br> -->
 
 ---
 
