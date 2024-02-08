@@ -47,4 +47,5 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
 
 ---
 
-<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
+<!--
+<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px"> -->
