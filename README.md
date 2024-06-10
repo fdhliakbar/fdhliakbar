@@ -17,10 +17,10 @@
 
 <!-- Link to Sosial Media -->
 
-<!-- ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=111&logoColor=fff&style=flat-square)
+![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
-![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square) -->
+![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 
 <!-- Icon Sosial Media -->
 
