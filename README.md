@@ -15,15 +15,17 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-<!-- Link to Sosial Media -->
-
+<!--
+![Sosial Media](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=111&logoColor=fff&style=flat-square)
+![stack](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
-![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
+-->
 
 <!-- Icon Sosial Media -->
 
+<!--
 <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" width="44px" alt="Fadhli Akbar Stackoverflow" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
@@ -40,11 +42,11 @@
   <img align="left" width="44px" alt="Fadhli Akbar Gitlab" src="https://img.shields.io/static/v1?logo=gitlab&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
 <br>
-
+-->
 ---
 
 I always try to improve my skills, especially in programming🧑🏻‍💻
 
 ---
 
-<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
+<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:64px">
