@@ -24,7 +24,7 @@
 
 <!-- Icon Sosial Media -->
 
-<!-- <a href="https://stackoverflow.com/users/19853138/fdhliakbar">
+<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
   <img align="left" width="44px" alt="Fadhli Akbar Stackoverflow" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
 <a href="https://codepen.io/fdhliakbar">
@@ -39,7 +39,7 @@
 <a href="https://gitlab.com/fdhliakbar">
   <img align="left" width="44px" alt="Fadhli Akbar Gitlab" src="https://img.shields.io/static/v1?logo=gitlab&label=&message= &color=111&logoColor=fff&style=flat-square&" />
 </a>
-<br> -->
+<br>
 
 ---
 
@@ -47,5 +47,4 @@ I always try to improve my skills, especially in programming🧑🏻‍💻
 
 ---
 
-<!--
-<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px"> -->
+<img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="108px" style="padding-left:70px">
