@@ -4,6 +4,15 @@
 
 ---
 
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/fdhliakbar/fdhliakbar/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/fdhliakbar/fdhliakbar/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/fdhliakbar/fdhliakbar/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
+---
+
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
@@ -17,37 +26,6 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 
-<<<<<<< HEAD
-=======
-<!--
-![Sosial Media](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
-![github](https://img.shields.io/static/v1?logo=github&label=&message=Github&color=111&logoColor=fff&style=flat-square)
-![stack](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
-![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
-![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Github&color=111&logoColor=fff&style=flat-square)
--->
-
-<!-- Icon Sosial Media -->
-
-<!--
-<a href="https://stackoverflow.com/users/19853138/fdhliakbar">
-  <img align="left" width="44px" alt="Fadhli Akbar Stackoverflow" src="https://img.shields.io/static/v1?logo=stackoverflow&label=&message= &color=111&logoColor=fff&style=flat-square&" />
-</a>
-<a href="https://codepen.io/fdhliakbar">
-  <img align="left" width="44px" alt="Fadhli Akbar Codepen" src="https://img.shields.io/static/v1?logo=codepen&label=&message= &color=111&logoColor=fff&style=flat-square&" />
-</a>
-<a href="https://www.hackerrank.com/fadhliakbar125?hr_r=1">
-  <img align="left" width="44px" alt="Fadhli Akbar HackerRank" src="https://img.shields.io/static/v1?logo=hackerrank&label=&message= &color=111&logoColor=fff&style=flat-square&" />
-</a>
-<a href="https://replit.com/@fdhliakbar">
-  <img align="left" width="44px" alt="Fadhli Akbar Replit" src="https://img.shields.io/static/v1?logo=replit&label=&message= &color=111&logoColor=fff&style=flat-square&" />
-</a>
-<a href="https://gitlab.com/fdhliakbar">
-  <img align="left" width="44px" alt="Fadhli Akbar Gitlab" src="https://img.shields.io/static/v1?logo=gitlab&label=&message= &color=111&logoColor=fff&style=flat-square&" />
-</a>
-<br>
--->
->>>>>>> bc026fd890e75a1d6db5b741a1b073bf9c3f1e44
 ---
 
 I always try to improve my skills, especially in programming🧑🏻‍💻
