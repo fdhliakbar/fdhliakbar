@@ -20,8 +20,8 @@
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 <p  align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdhliakbar&theme=dark"></br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdhliakbar&theme=dark&utcOffset=8" alt="Github Repo"><img src="./Assets/asuka.gif" alt="Asuka gif" height="120px" style="padding-left:60px"></br></p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdhliakbar&theme=github_dark"></br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdhliakbar&theme=github_dark&utcOffset=8" alt="Github Repo"><img src="./Assets/asuka.gif" alt="Asuka gif" height="120px" style="padding-left:60px"></br></p>
 
 **NOTE:** This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
