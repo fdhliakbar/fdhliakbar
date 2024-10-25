@@ -1,4 +1,4 @@
-### Hi, I'm Muhamad Fadhli Akbar &nbsp;&nbsp;<sup>👾 &#12299;I am currently a computer science student.</sup>
+### Hi, I'm Muhamad Fadhli Akbar👋🧑‍💻 &nbsp;&nbsp;<sup>👾 &#12299;I am currently a computer science student.</sup>
 
 ---
 
@@ -20,9 +20,6 @@
 
 <!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 <p  align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdhliakbar&theme=github_dark"></br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdhliakbar&theme=github_dark&utcOffset=8" alt="Github Repo"><img src="./Assets/asuka.gif" alt="Asuka gif" height="120px" style="padding-left:60px"></br></p>
-
-**NOTE:** This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdhliakbar&theme=github_dark" width="78%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="110px" style="padding-left:20px"></br></p>
 
 <!-- <img src="./Assets/banner.jpeg" alt="Asuka langley banner" width="68%"><img src="./Assets/asuka.gif" alt="Asuka gif" height="120px" style="padding-left:78px"> -->
