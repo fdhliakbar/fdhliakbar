@@ -12,7 +12,7 @@
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
 ![postman](https://img.shields.io/static/v1?logo=postman&label=&message=Postman&color=36465D&logoColor=AAA&style=flat-square)
-![tensorflow](https://img.shields.io/static/v1?logo=tensorflow&label=&message=TensorFlow&color=36465D&logoColor=AAA&style=flat-square)
+![aws](https://img.shields.io/static/v1?logo=aws&label=&message=AWS&color=36465D&logoColor=AAA&style=flat-square)
 ![sentry](https://img.shields.io/static/v1?logo=sentry&label=&message=Sentry&color=36465D&logoColor=AAA&style=flat-square)
 ![laragon](https://img.shields.io/static/v1?logo=laragon&label=&message=Laragon&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
