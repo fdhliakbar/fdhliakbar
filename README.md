@@ -20,5 +20,5 @@
 ---
 
 <p align="center">
-<img src="./Assets/mavis.gif" alt="Onodera banner" width="80%">
+<img src="./Assets/mavis.gif" alt="Mavis Fermillion banner" width="80%">
 </p>
