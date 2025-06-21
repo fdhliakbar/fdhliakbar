@@ -21,5 +21,7 @@
 ---
 
 <p align="center">
+
 <img src="./Assets/banner of nature.jpg" alt="Onodera banner" width="80%">
+
 </p>
