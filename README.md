@@ -8,7 +8,9 @@
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
 ![dart](https://img.shields.io/static/v1?logo=dart&label=&message=Dart&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=Javascript&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;
+
+<br>
+
 ![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
 ![supabase](https://img.shields.io/static/v1?logo=supabase&label=&message=Supabase&color=36465D&logoColor=AAA&style=flat-square)
 ![postgreesql](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
