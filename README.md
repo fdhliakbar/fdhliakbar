@@ -22,6 +22,6 @@
 
 <p align="center">
 
-<img src="./Assets/banner of nature.jpg" alt="Onodera banner" width="80%">
+<img src="./Assets/donkey-crop.jpg" alt="Donkey Banner from Minecraft" width="80%">
 
 </p>
