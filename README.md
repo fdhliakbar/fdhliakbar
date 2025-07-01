@@ -1,5 +1,8 @@
 ### Hi, I'm Muhamad Fadhli Akbar👋🧑‍💻 &nbsp;&nbsp;<sup>👾 &#12299;I am currently a computer science student.</sup>
 
+[`🏠 fdhliakbar`](https://fdhliakbar.vercel.app/)
+[`📫 fadhliakbar125@gmail.com`](mailto:fadhliakbar125@gmail.com)
+
 ---
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
