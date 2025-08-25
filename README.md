@@ -5,7 +5,7 @@
 Passionate Full-Stack Developer and Quality Assurance specializing in the **Golang** & **TypeScript** ecosystem.
 Building scalable and modern web applications.
 
-- ⚙️ I use daily: `.go`, `.vue`, `.tsx`, `.py`, `.json`
+- ⚙️ I use daily: `.go`, `.rs`, `.tsx`, `.py`, `.json`
 - 🌍 I'm mostly active within the **Golang** and **Typescript Communities**
 - 🛠️ My stack: **Golang**, **Express.js**, **Vue.js**, **Next.js**, **PostgreSQL**, **Flask**
 - ✍️ Designed: Modern web applications, RESTful APIs, SPAs, and full-stack solutions
