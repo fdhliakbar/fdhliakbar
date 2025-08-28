@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer who's always learning and growing 🚀
 
-Passionate Full-Stack Developer and Quality Assurance specializing in the **Golang** & **TypeScript** ecosystem.
+Passionate Full-Stack Developer and Quality Assurance specializing in the **Golang**, **Rust** and **TypeScript** ecosystem.
 Building scalable and modern web applications.
 
 - ⚙️ I use daily: `.go`, `.rs`, `.tsx`, `.py`, `.json`
