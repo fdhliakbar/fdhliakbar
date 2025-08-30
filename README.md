@@ -14,4 +14,6 @@ Focused on building scalable, modern web applications with clean architecture an
   - QA: **Playwright**, **Selenium**, **Postman**, **Github Actions**, **Docker**, **Jira**
 - Contact [@fdhliakbar](https://instagram.com/fdhliakbar)
 
-<a href="https://profile.codersrank.io/user/fdhliakbar">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=fdhliakbar)</a>
+<div align="center">
+<img src="./makisekurisu.jpg" alt="Makise Kurisu Banner"/>
+</div>
