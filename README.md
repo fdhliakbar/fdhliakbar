@@ -12,7 +12,6 @@ Focused on building scalable, modern web applications with clean architecture an
 - Tech stack:
   - Development: **Golang**, **Next.js**, **Vue**, **PostgreSQL**
   - QA: **Playwright**, **Selenium**, **Postman**, **Github Actions**, **Docker**, **Jira**
-- Contact [@fdhliakbar](https://instagram.com/fdhliakbar)
 
 <div align="center">
 <img src="./makisekurisu.jpg" alt="Makise Kurisu Banner"/>
