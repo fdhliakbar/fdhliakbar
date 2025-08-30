@@ -1,12 +1,15 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer who's always learning and growing 🚀
+#### A Full-Stack Developer & Quality Assurance Specialist Who's Always Learning and Growing
 
-Passionate Full-Stack Developer and Quality Assurance specializing in the **Golang**, **Rust** and **TypeScript** ecosystem.
-Building scalable and modern web applications.
+Passionate Full-Stack and QA professional specializing in the **Golang** and **TypeScript** ecosystem.
 
-- ⚙️ I use daily: `.go`, `.rs`, `.tsx`, `.py`, `.json`
-- 🌍 I'm mostly active within the **Golang** and **Typescript Communities**
-- 🛠️ My stack: **Golang**, **Express.js**, **Vue.js**, **Next.js**, **PostgreSQL**, **Flask**
-- ✍️ Designed: Modern web applications, RESTful APIs, SPAs, and full-stack solutions
-- 💬 Contact me on Instagram [@fdhliakbar](https://instagram.com/fdhliakbar)
+- I use daily:
+  - Development: `.go`, `.tsx`, `.json`
+  - QA: `playwright`, `postman`, `github actions`
+- Active in: Communities and contributing to discussions about clean code, test automation, and scalable architecture.
+- Tech stack:
+  - Development: **Golang**, **Next.js**, **Vue**, **PostgreSQL**
+  - QA: **Playwright**, **Postman**, **Github Actions** or **Jenkins**, **Docker**
+Focused on building scalable, modern web applications with clean architecture and ensuring high-quality, reliable software through robust testing practices.
+- Contact [@fdhliakbar](https://instagram.com/fdhliakbar)
