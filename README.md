@@ -7,7 +7,7 @@ Focused on building scalable, modern web applications with clean architecture an
 
 - I use daily:
   - Development: `.go`, `.tsx`, `.json`
-  - QA: `playwright`, `postman`, `github actions`
+  - QA: `Manual Testing`, `Automation Tools`, `CI/CD Integration`, `Performance Testing`
 - Active in: Communities and contributing to discussions about clean code, test automation, and scalable architecture.
 - Tech stack:
   - Development: **Golang**, **Next.js**, **Vue**, **PostgreSQL**
