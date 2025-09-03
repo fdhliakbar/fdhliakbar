@@ -14,5 +14,5 @@ Focused on building scalable, modern web applications with clean architecture an
   - QA: **Playwright**, **Selenium**, **Postman**, **Github Actions**, **Docker**, **Jira**
 
 <div align="center">
-<img src="./makisekurisu.jpg" alt="Makise Kurisu from Steins Gate Banner"/>
+<img src="https://i.pinimg.com/1200x/b7/5e/80/b75e8066645783e02480b110d0453e91.jpg" alt="Makise Kurisu from Steins Gate Banner"/>
 </div>
