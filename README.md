@@ -10,7 +10,7 @@ Focused on building scalable, modern web applications with clean architecture an
   - QA: `Manual Testing`, `Automation Tools`, `CI/CD Integration`, `Performance Testing`
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=V_oKkEZbvc0" target=_blank>
+<a href="https://www.youtube.com/watch?v=V_oKkEZbvc0" target="_blank">
 <img src="./onodera-kosaki-banner.jpeg" alt="Onodera kosaki from nisekoi banner" />
 </a>
 </div>
