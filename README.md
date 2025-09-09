@@ -6,13 +6,11 @@ Passionate Full-Stack and QA professional specializing in the **Golang** and **T
 Focused on building scalable, modern web applications with clean architecture and ensuring high-quality, reliable software through robust testing practices.
 
 - I use daily:
-  - Development: `.go`, `.tsx`, `.json`
+  - Development: `Go`, `Typescript`, `.json`, `Redis`, `Supabase`
   - QA: `Manual Testing`, `Automation Tools`, `CI/CD Integration`, `Performance Testing`
-- Active in: Communities and contributing to discussions about clean code, test automation, and scalable architecture.
-- Tech stack:
-  - Development: **Golang**, **Next.js**, **Vue**, **PostgreSQL**
-  - QA: **Playwright**, **Selenium**, **Postman**, **Github Actions**, **Docker**, **Jira**
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/b7/5e/80/b75e8066645783e02480b110d0453e91.jpg" width="90%" alt="Makise Kurisu from Steins Gate Banner"/>
+<a href="https://www.youtube.com/watch?v=V_oKkEZbvc0" target=_blank>
+<img src="./onodera-kosaki-banner.jpeg" alt="Onodera kosaki from nisekoi banner" />
+</a>
 </div>
