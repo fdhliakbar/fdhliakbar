@@ -11,6 +11,6 @@ Focused on building scalable, modern web applications with clean architecture an
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=V_oKkEZbvc0">
-<img src="./onodera-kosaki-banner.jpeg" alt="Onodera kosaki from Nisekoi banners" />
+<img src="https://i.pinimg.com/1200x/7f/06/7f/7f067f1225f6b35093de0a394c717f9f.jpg" alt="Onodera kosaki from Nisekoi banners" />
 </a>
 </div>
