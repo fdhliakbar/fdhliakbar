@@ -9,7 +9,9 @@ Focused on building scalable, modern web applications with clean architecture an
 -  [Portfolio Website](https://fdhliakbar.vercel.app/)  
 -  [LinkedIn](https://linkedin.com/in/fdhliakbar)  
 -  [Instagram](https://instagram.com/fdhliakbar)  
--  Email: fadhliakbar125@gmail.com  
+-  Email: fadhliakbar125@gmail.com
+
+`Open to Work`
 
 <div align="center">
 <a href="https://youtu.be/EEUszp4QPXg?si=C-2_qeavsaV7cUBw">
