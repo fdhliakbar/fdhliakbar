@@ -11,6 +11,9 @@ Focused on building scalable, modern web applications with clean architecture an
 -  [Instagram](https://instagram.com/fdhliakbar)  
 -  Email: fadhliakbar125@gmail.com
 
+<div align="center">
+<img alt="cat-banner" src="https://github.com/user-attachments/assets/c9b32fb0-f723-4cb3-b002-c7f7be5ebdad" />
+</div>
 
 <!-- <div align="center">
 <a href="https://youtu.be/EEUszp4QPXg?si=C-2_qeavsaV7cUBw">
