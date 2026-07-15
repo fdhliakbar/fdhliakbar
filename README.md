@@ -10,9 +10,3 @@ Focused on building scalable, modern web applications with clean architecture an
 -  [Instagram](https://instagram.com/fdhliakbar)  
 -  Email: fadhliakbar125@gmail.com
 
-  
-<!-- <div align="center">
-<a href="https://youtu.be/EEUszp4QPXg?si=C-2_qeavsaV7cUBw">
-<img src="/hitagi-banner.jpeg" alt="Onodera kosaki from Nisekoi banners" />
-</a>
-</div> -->
