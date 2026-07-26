@@ -11,8 +11,22 @@ Focused on building scalable, modern web applications with clean architecture an
 -  [Codechef](https://instagram.com/fdhliakbar)  
 -  [LeetCode]() -->
 
-<div align="center">
-<img src="./mio-akiyama-wallpaper.jpeg" width="80%" alt="Mio akiyama wallpaper" />
-</div>
+```go
+package main
+import "fmt"
 
-Open to collaboration, full-time roles, or project work. Let's build something great together.
+func main() {
+    myself := map[string]interface{}{
+        "name":     "Fadhli Akbar",
+        "nickname": "fdhliakbar",
+        "pronouns": "He/Him",
+        "skills":   []string{"TypeScript", "Golang", "C++", "Docker", "PostgreSQL"},
+        "role":     "Software Developer",
+    }
+
+    sayHello := func() string {
+        return fmt.Sprintf("Hello, my name is %s. You can call me %s", myself["name"], myself["nickname"])
+    }
+    fmt.Println(sayHello())
+}
+```
